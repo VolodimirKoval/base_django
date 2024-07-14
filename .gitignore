@@ -3,3 +3,4 @@ __pycache__
 db.sqlite
 /db.sqlite
 .idea/
+node_modules
